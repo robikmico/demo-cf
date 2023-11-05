@@ -13,7 +13,7 @@ Resources:
       Tags:
         -
           Key: Appplication
-          Value:  robi Server
+          Value:  robiro Server
 
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
